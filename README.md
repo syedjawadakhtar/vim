@@ -8,7 +8,7 @@ Different Modes: Insert,normal and visual<br/>
 ```:q``` - *quit vim* <br/> 
 ```:q!``` - *quit vim without saving* <br/>
 ```:w``` - *followed by :q OR :wq - Save and exit* <br/>	
-```h```j```k```l``` - ***for moving around left, down, up, right*** <br/>
+```h``` ```j``` ```k``` ```l``` - ***for moving around left, down, up, right*** <br/>
 ```i``` - *to insert at a location*  --- **AVOID using escape and arrow keys** <br/>
 ```i``` - *insert BEFORE Cursor* <br/>
 ```a``` - *insert AFTER Cursor (append)* <br/>
@@ -20,7 +20,7 @@ Different Modes: Insert,normal and visual<br/>
 ```shift+r (or R)``` - *replace mode* --- **Have a look at how the backspace works in this mode** <br/>
 ```x``` - *remove char under the cursor. Similar to **delete*** <br/>
 ```shift+x (or X)``` - *remove char before cursor. Works like **backspace*** <br/>
-```v``` - *visual mode - use ```h```j```k```l``` to select text* <br/>
+```v``` - *visual mode - use ```h``` ```j``` ```k``` ```l``` to select text* <br/>
 ```y``` - *yank in visual mode --- **copying*** <br/>
 ```p``` - *paste in visual mode* <br/>
 ```u``` - *Undo* <br/>
