@@ -1,6 +1,6 @@
 # vim
 ## vim basics commands 
-**Source: https://linuxgazette.net/152/srinivasan.html**
+**Source: https://linuxgazette.net/152/srinivasan.html** <br/>
 Different Modes: Insert,normal and visual<br/>
 ```vim filename``` - *open vim* <br/>
 ```gvim filename``` - *GUI interface* <br/>
